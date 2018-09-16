@@ -1,0 +1,55 @@
+Hostname: elf14
+elf14
+elf14
+elf14
+elf14
+elf14
+elf14
+elf14
+elf14
+elf14
+elf14
+elf14
+elf14
+elf14
+elf14
+elf14
+DATA, 1, 16, 5619.651000, MEMORY, Virtual (KB), 4344, Physical (KB), 348 
+DEBUG: myID = 12, startPos = 300000000, endPos = 325000000 
+DEBUG: myID = 1, startPos = 25000000, endPos = 50000000 
+DEBUG: myID = 0, startPos = 0, endPos = 25000000 
+DEBUG: myID = 14, startPos = 350000000, endPos = 375000000 
+DEBUG: myID = 2, startPos = 50000000, endPos = 75000000 
+DEBUG: myID = 3, startPos = 75000000, endPos = 100000000 
+DEBUG: myID = 15, startPos = 375000000, endPos = 400000000 
+DEBUG: myID = 10, startPos = 250000000, endPos = 275000000 
+DEBUG: myID = 7, startPos = 175000000, endPos = 200000000 
+DEBUG: myID = 11, startPos = 275000000, endPos = 300000000 
+DEBUG: myID = 5, startPos = 125000000, endPos = 150000000 
+DEBUG: myID = 6, startPos = 150000000, endPos = 175000000 
+DEBUG: myID = 4, startPos = 100000000, endPos = 125000000 
+DEBUG: myID = 8, startPos = 200000000, endPos = 225000000 
+DEBUG: myID = 9, startPos = 225000000, endPos = 250000000 
+DEBUG: myID = 13, startPos = 325000000, endPos = 350000000 
+DEBUG: Global_Sum 1256637061.935899
+DATA, 1, 16, 424.438000
+MEMORY, Virtual (KB), 131660, Physical (KB), 2652 
+DEBUG: myID = 1, startPos = 25000000, endPos = 50000000 
+DEBUG: myID = 3, startPos = 75000000, endPos = 100000000 
+DEBUG: myID = 6, startPos = 150000000, endPos = 175000000 
+DEBUG: myID = 0, startPos = 0, endPos = 25000000 
+DEBUG: myID = 7, startPos = 175000000, endPos = 200000000 
+DEBUG: myID = 2, startPos = 50000000, endPos = 75000000 
+DEBUG: myID = 8, startPos = 200000000, endPos = 225000000 
+DEBUG: myID = 10, startPos = 250000000, endPos = 275000000 
+DEBUG: myID = 9, startPos = 225000000, endPos = 250000000 
+DEBUG: myID = 4, startPos = 100000000, endPos = 125000000 
+DEBUG: myID = 12, startPos = 300000000, endPos = 325000000 
+DEBUG: myID = 13, startPos = 325000000, endPos = 350000000 
+DEBUG: myID = 14, startPos = 350000000, endPos = 375000000 
+DEBUG: myID = 11, startPos = 275000000, endPos = 300000000 
+DEBUG: myID = 5, startPos = 125000000, endPos = 150000000 
+DEBUG: myID = 15, startPos = 375000000, endPos = 400000000 
+DEBUG: Global_Sum 1256637061.935899
+DATA, 1, 16, 391.844000
+MEMORY, Virtual (KB), 106972, Physical (KB), 720 

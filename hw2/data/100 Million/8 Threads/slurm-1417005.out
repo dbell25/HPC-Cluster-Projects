@@ -1,0 +1,28 @@
+slurmstepd: error: task/cgroup: task[0] unable to set taskset '0x00000005'
+slurmstepd: error: task/cgroup: task[0] unable to set taskset '0x00000001'
+slurmstepd: error: task/cgroup: task[1] unable to set taskset '0x00000004'
+Hostname: elf09
+elf09
+DATA, 1, 2, 1466.593000, MEMORY, Virtual (KB), 4344, Physical (KB), 348 
+DEBUG: myID = 5, startPos = 62500000, endPos = 75000000 
+DEBUG: myID = 7, startPos = 87500000, endPos = 100000000 
+DEBUG: myID = 1, startPos = 12500000, endPos = 25000000 
+DEBUG: myID = 0, startPos = 0, endPos = 12500000 
+DEBUG: myID = 2, startPos = 25000000, endPos = 37500000 
+DEBUG: myID = 3, startPos = 37500000, endPos = 50000000 
+DEBUG: myID = 4, startPos = 50000000, endPos = 62500000 
+DEBUG: myID = 6, startPos = 75000000, endPos = 87500000 
+DEBUG: Global_Sum 314159265.858969
+DATA, 1, 2, 793.587000
+MEMORY, Virtual (KB), 66092, Physical (KB), 604 
+DEBUG: myID = 0, startPos = 0, endPos = 12500000 
+DEBUG: myID = 1, startPos = 12500000, endPos = 25000000 
+DEBUG: myID = 2, startPos = 25000000, endPos = 37500000 
+DEBUG: myID = 4, startPos = 50000000, endPos = 62500000 
+DEBUG: myID = 5, startPos = 62500000, endPos = 75000000 
+DEBUG: myID = 7, startPos = 87500000, endPos = 100000000 
+DEBUG: myID = 6, startPos = 75000000, endPos = 87500000 
+DEBUG: myID = 3, startPos = 37500000, endPos = 50000000 
+DEBUG: Global_Sum 314159265.858969
+DATA, 1, 2, 727.364000
+MEMORY, Virtual (KB), 106972, Physical (KB), 716 

@@ -1,0 +1,15 @@
+Hostname: elf09
+elf09
+elf09
+elf09
+DATA, 1, 4, 2932.088000, MEMORY, Virtual (KB), 4344, Physical (KB), 348 
+DEBUG: myID = 0, startPos = 0, endPos = 100000000 
+DEBUG: myID = 1, startPos = 100000000, endPos = 200000000 
+DEBUG: Global_Sum 628318531.217953
+DATA, 1, 4, 1506.218000
+MEMORY, Virtual (KB), 16916, Physical (KB), 604 
+DEBUG: myID = 0, startPos = 0, endPos = 100000000 
+DEBUG: myID = 1, startPos = 100000000, endPos = 200000000 
+DEBUG: Global_Sum 628318531.217953
+DATA, 1, 4, 1514.758000
+MEMORY, Virtual (KB), 90580, Physical (KB), 540 

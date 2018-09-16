@@ -1,0 +1,14 @@
+slurmstepd: error: task/cgroup: task[1] unable to set taskset '0x00000004'
+Hostname: elf06
+elf06
+DATA, 1, 2, 1463.490000, MEMORY, Virtual (KB), 4344, Physical (KB), 348 
+DEBUG: myID = 1, startPos = 50000000, endPos = 100000000 
+DEBUG: myID = 0, startPos = 0, endPos = 50000000 
+DEBUG: Global_Sum 314159265.858949
+DATA, 1, 2, 1425.533000
+MEMORY, Virtual (KB), 16916, Physical (KB), 604 
+DEBUG: myID = 1, startPos = 50000000, endPos = 100000000 
+DEBUG: myID = 0, startPos = 0, endPos = 50000000 
+DEBUG: Global_Sum 314159265.858949
+DATA, 1, 2, 1434.198000
+MEMORY, Virtual (KB), 90580, Physical (KB), 536 

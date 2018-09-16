@@ -1,0 +1,48 @@
+slurmstepd: error: task/cgroup: task[0] unable to set taskset '0x00000001'
+Hostname: elf17
+elf17
+elf17
+elf17
+elf17
+elf17
+elf17
+elf17
+DATA, 1, 8, 2901.071000, MEMORY, Virtual (KB), 4344, Physical (KB), 348 
+DEBUG: myID = 15, startPos = 187500000, endPos = 200000000 
+DEBUG: myID = 6, startPos = 75000000, endPos = 87500000 
+DEBUG: myID = 2, startPos = 25000000, endPos = 37500000 
+DEBUG: myID = 3, startPos = 37500000, endPos = 50000000 
+DEBUG: myID = 1, startPos = 12500000, endPos = 25000000 
+DEBUG: myID = 5, startPos = 62500000, endPos = 75000000 
+DEBUG: myID = 4, startPos = 50000000, endPos = 62500000 
+DEBUG: myID = 7, startPos = 87500000, endPos = 100000000 
+DEBUG: myID = 0, startPos = 0, endPos = 12500000 
+DEBUG: myID = 8, startPos = 100000000, endPos = 112500000 
+DEBUG: myID = 9, startPos = 112500000, endPos = 125000000 
+DEBUG: myID = 10, startPos = 125000000, endPos = 137500000 
+DEBUG: myID = 11, startPos = 137500000, endPos = 150000000 
+DEBUG: myID = 12, startPos = 150000000, endPos = 162500000 
+DEBUG: myID = 13, startPos = 162500000, endPos = 175000000 
+DEBUG: myID = 14, startPos = 175000000, endPos = 187500000 
+DEBUG: Global_Sum 628318531.217963
+DATA, 1, 8, 487.670000
+MEMORY, Virtual (KB), 131660, Physical (KB), 604 
+DEBUG: myID = 0, startPos = 0, endPos = 12500000 
+DEBUG: myID = 1, startPos = 12500000, endPos = 25000000 
+DEBUG: myID = 2, startPos = 25000000, endPos = 37500000 
+DEBUG: myID = 3, startPos = 37500000, endPos = 50000000 
+DEBUG: myID = 5, startPos = 62500000, endPos = 75000000 
+DEBUG: myID = 4, startPos = 50000000, endPos = 62500000 
+DEBUG: myID = 15, startPos = 187500000, endPos = 200000000 
+DEBUG: myID = 9, startPos = 112500000, endPos = 125000000 
+DEBUG: myID = 6, startPos = 75000000, endPos = 87500000 
+DEBUG: myID = 13, startPos = 162500000, endPos = 175000000 
+DEBUG: myID = 10, startPos = 125000000, endPos = 137500000 
+DEBUG: myID = 14, startPos = 175000000, endPos = 187500000 
+DEBUG: myID = 11, startPos = 137500000, endPos = 150000000 
+DEBUG: myID = 8, startPos = 100000000, endPos = 112500000 
+DEBUG: myID = 7, startPos = 87500000, endPos = 100000000 
+DEBUG: myID = 12, startPos = 150000000, endPos = 162500000 
+DEBUG: Global_Sum 628318531.217963
+DATA, 1, 8, 457.452000
+MEMORY, Virtual (KB), 106972, Physical (KB), 720 

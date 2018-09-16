@@ -1,0 +1,28 @@
+slurmstepd: error: task/cgroup: task[0] unable to set taskset '0x00005555'
+slurmstepd: error: task/cgroup: task[0] unable to set taskset '0x00000001'
+slurmstepd: error: task/cgroup: task[1] unable to set taskset '0x00000004'
+slurmstepd: error: task/cgroup: task[2] unable to set taskset '0x00000010'
+slurmstepd: error: task/cgroup: task[3] unable to set taskset '0x00000040'
+slurmstepd: error: task/cgroup: task[4] unable to set taskset '0x00000100'
+slurmstepd: error: task/cgroup: task[5] unable to set taskset '0x00000400'
+slurmstepd: error: task/cgroup: task[6] unable to set taskset '0x00001000'
+slurmstepd: error: task/cgroup: task[7] unable to set taskset '0x00004000'
+Hostname: elf66
+elf66
+elf66
+elf66
+elf66
+elf66
+elf66
+elf66
+DATA, 1, 8, 2774.217000, MEMORY, Virtual (KB), 4344, Physical (KB), 348 
+DEBUG: myID = 0, startPos = 0, endPos = 100000000 
+DEBUG: myID = 1, startPos = 100000000, endPos = 200000000 
+DEBUG: Global_Sum 628318531.217953
+DATA, 1, 8, 1389.284000
+MEMORY, Virtual (KB), 16916, Physical (KB), 604 
+DEBUG: myID = 0, startPos = 0, endPos = 100000000 
+DEBUG: myID = 1, startPos = 100000000, endPos = 200000000 
+DEBUG: Global_Sum 628318531.217953
+DATA, 1, 8, 1389.601000
+MEMORY, Virtual (KB), 90580, Physical (KB), 540 

@@ -1,0 +1,15 @@
+slurm-1418426.out:DATA, 1, 1, 6174.352000, MEMORY, Virtual (KB), 4344, Physical (KB), 348 
+slurm-1418426.out:DATA, 1, 1, 5973.542000
+slurm-1418426.out:DATA, 1, 1, 5487.683000
+slurm-1418427.out:DATA, 1, 2, 6263.783000, MEMORY, Virtual (KB), 4344, Physical (KB), 348 
+slurm-1418427.out:DATA, 1, 2, 3110.145000
+slurm-1418427.out:DATA, 1, 2, 2875.481000
+slurm-1418428.out:DATA, 1, 4, 6371.986000, MEMORY, Virtual (KB), 4344, Physical (KB), 348 
+slurm-1418428.out:DATA, 1, 4, 1555.390000
+slurm-1418428.out:DATA, 1, 4, 1565.607000
+slurm-1418429.out:DATA, 1, 8, 5800.733000, MEMORY, Virtual (KB), 4344, Physical (KB), 348 
+slurm-1418429.out:DATA, 1, 8, 915.079000
+slurm-1418429.out:DATA, 1, 8, 937.024000
+slurm-1418430.out:DATA, 1, 16, 5619.651000, MEMORY, Virtual (KB), 4344, Physical (KB), 348 
+slurm-1418430.out:DATA, 1, 16, 424.438000
+slurm-1418430.out:DATA, 1, 16, 391.844000

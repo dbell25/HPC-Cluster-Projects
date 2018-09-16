@@ -1,0 +1,27 @@
+Hostname: elf70
+elf70
+elf70
+elf70
+elf70
+elf70
+elf70
+elf70
+elf70
+elf70
+elf70
+elf70
+elf70
+elf70
+elf70
+elf70
+DATA, 1, 16, 2740.651000, MEMORY, Virtual (KB), 4344, Physical (KB), 348 
+DEBUG: myID = 0, startPos = 0, endPos = 100000000 
+DEBUG: myID = 1, startPos = 100000000, endPos = 200000000 
+DEBUG: Global_Sum 628318531.217953
+DATA, 1, 16, 1344.755000
+MEMORY, Virtual (KB), 16916, Physical (KB), 604 
+DEBUG: myID = 0, startPos = 0, endPos = 100000000 
+DEBUG: myID = 1, startPos = 100000000, endPos = 200000000 
+DEBUG: Global_Sum 628318531.217953
+DATA, 1, 16, 1340.343000
+MEMORY, Virtual (KB), 90580, Physical (KB), 540 

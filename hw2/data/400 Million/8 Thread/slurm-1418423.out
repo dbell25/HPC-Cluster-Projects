@@ -1,0 +1,27 @@
+Hostname: elf41
+elf41
+elf41
+elf41
+DATA, 1, 4, 6349.120000, MEMORY, Virtual (KB), 4344, Physical (KB), 348 
+DEBUG: myID = 6, startPos = 300000000, endPos = 350000000 
+DEBUG: myID = 2, startPos = 100000000, endPos = 150000000 
+DEBUG: myID = 1, startPos = 50000000, endPos = 100000000 
+DEBUG: myID = 5, startPos = 250000000, endPos = 300000000 
+DEBUG: myID = 4, startPos = 200000000, endPos = 250000000 
+DEBUG: myID = 0, startPos = 0, endPos = 50000000 
+DEBUG: myID = 7, startPos = 350000000, endPos = 400000000 
+DEBUG: myID = 3, startPos = 150000000, endPos = 200000000 
+DEBUG: Global_Sum 1256637061.935940
+DATA, 1, 4, 1551.598000
+MEMORY, Virtual (KB), 66092, Physical (KB), 604 
+DEBUG: myID = 0, startPos = 0, endPos = 50000000 
+DEBUG: myID = 3, startPos = 150000000, endPos = 200000000 
+DEBUG: myID = 5, startPos = 250000000, endPos = 300000000 
+DEBUG: myID = 6, startPos = 300000000, endPos = 350000000 
+DEBUG: myID = 1, startPos = 50000000, endPos = 100000000 
+DEBUG: myID = 2, startPos = 100000000, endPos = 150000000 
+DEBUG: myID = 7, startPos = 350000000, endPos = 400000000 
+DEBUG: myID = 4, startPos = 200000000, endPos = 250000000 
+DEBUG: Global_Sum 1256637061.935940
+DATA, 1, 4, 1572.864000
+MEMORY, Virtual (KB), 106972, Physical (KB), 716 

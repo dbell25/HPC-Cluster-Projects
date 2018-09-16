@@ -1,0 +1,56 @@
+slurmstepd: error: task/cgroup: task[0] unable to set taskset '0x00005555'
+slurmstepd: error: task/cgroup: task[0] unable to set taskset '0x00000001'
+slurmstepd: error: task/cgroup: task[1] unable to set taskset '0x00000004'
+slurmstepd: error: task/cgroup: task[2] unable to set taskset '0x00000010'
+slurmstepd: error: task/cgroup: task[3] unable to set taskset '0x00000040'
+slurmstepd: error: task/cgroup: task[4] unable to set taskset '0x00000100'
+slurmstepd: error: task/cgroup: task[5] unable to set taskset '0x00000400'
+slurmstepd: error: task/cgroup: task[6] unable to set taskset '0x00001000'
+slurmstepd: error: task/cgroup: task[7] unable to set taskset '0x00004000'
+Hostname: elf66
+elf66
+elf66
+elf66
+elf66
+elf66
+elf66
+elf66
+DATA, 1, 8, 1385.516000, MEMORY, Virtual (KB), 4344, Physical (KB), 348 
+DEBUG: myID = 1, startPos = 6250000, endPos = 12500000 
+DEBUG: myID = 14, startPos = 87500000, endPos = 93750000 
+DEBUG: myID = 2, startPos = 12500000, endPos = 18750000 
+DEBUG: myID = 5, startPos = 31250000, endPos = 37500000 
+DEBUG: myID = 3, startPos = 18750000, endPos = 25000000 
+DEBUG: myID = 8, startPos = 50000000, endPos = 56250000 
+DEBUG: myID = 4, startPos = 25000000, endPos = 31250000 
+DEBUG: myID = 7, startPos = 43750000, endPos = 50000000 
+DEBUG: myID = 15, startPos = 93750000, endPos = 100000000 
+DEBUG: myID = 0, startPos = 0, endPos = 6250000 
+DEBUG: myID = 9, startPos = 56250000, endPos = 62500000 
+DEBUG: myID = 10, startPos = 62500000, endPos = 68750000 
+DEBUG: myID = 11, startPos = 68750000, endPos = 75000000 
+DEBUG: myID = 12, startPos = 75000000, endPos = 81250000 
+DEBUG: myID = 13, startPos = 81250000, endPos = 87500000 
+DEBUG: myID = 6, startPos = 37500000, endPos = 43750000 
+DEBUG: Global_Sum 314159265.858982
+DATA, 1, 8, 206.084000
+MEMORY, Virtual (KB), 131660, Physical (KB), 604 
+DEBUG: myID = 0, startPos = 0, endPos = 6250000 
+DEBUG: myID = 1, startPos = 6250000, endPos = 12500000 
+DEBUG: myID = 3, startPos = 18750000, endPos = 25000000 
+DEBUG: myID = 4, startPos = 25000000, endPos = 31250000 
+DEBUG: myID = 5, startPos = 31250000, endPos = 37500000 
+DEBUG: myID = 7, startPos = 43750000, endPos = 50000000 
+DEBUG: myID = 8, startPos = 50000000, endPos = 56250000 
+DEBUG: myID = 15, startPos = 93750000, endPos = 100000000 
+DEBUG: myID = 6, startPos = 37500000, endPos = 43750000 
+DEBUG: myID = 2, startPos = 12500000, endPos = 18750000 
+DEBUG: myID = 10, startPos = 62500000, endPos = 68750000 
+DEBUG: myID = 9, startPos = 56250000, endPos = 62500000 
+DEBUG: myID = 14, startPos = 87500000, endPos = 93750000 
+DEBUG: myID = 13, startPos = 81250000, endPos = 87500000 
+DEBUG: myID = 11, startPos = 68750000, endPos = 75000000 
+DEBUG: myID = 12, startPos = 75000000, endPos = 81250000 
+DEBUG: Global_Sum 314159265.858982
+DATA, 1, 8, 182.648000
+MEMORY, Virtual (KB), 106972, Physical (KB), 720 

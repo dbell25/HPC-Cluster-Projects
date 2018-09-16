@@ -1,0 +1,15 @@
+Hostname: elf41
+elf41
+elf41
+elf41
+DATA, 1, 4, 12182.869000, MEMORY, Virtual (KB), 4344, Physical (KB), 348 
+DEBUG: myID = 0, startPos = 0, endPos = 400000000 
+DEBUG: myID = 1, startPos = 400000000, endPos = 800000000 
+DEBUG: Global_Sum 2513274123.371861
+DATA, 1, 4, 6046.095000
+MEMORY, Virtual (KB), 16916, Physical (KB), 604 
+DEBUG: myID = 0, startPos = 0, endPos = 400000000 
+DEBUG: myID = 1, startPos = 400000000, endPos = 800000000 
+DEBUG: Global_Sum 2513274123.371861
+DATA, 1, 4, 6051.406000
+MEMORY, Virtual (KB), 90580, Physical (KB), 540 

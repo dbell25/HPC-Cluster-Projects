@@ -1,0 +1,39 @@
+Hostname: elf14
+elf14
+elf14
+elf14
+elf14
+elf14
+elf14
+elf14
+elf14
+elf14
+elf14
+elf14
+elf14
+elf14
+elf14
+elf14
+DATA, 1, 16, 10994.342000, MEMORY, Virtual (KB), 4344, Physical (KB), 348 
+DEBUG: myID = 5, startPos = 500000000, endPos = 600000000 
+DEBUG: myID = 6, startPos = 600000000, endPos = 700000000 
+DEBUG: myID = 2, startPos = 200000000, endPos = 300000000 
+DEBUG: myID = 7, startPos = 700000000, endPos = 800000000 
+DEBUG: myID = 1, startPos = 100000000, endPos = 200000000 
+DEBUG: myID = 3, startPos = 300000000, endPos = 400000000 
+DEBUG: myID = 4, startPos = 400000000, endPos = 500000000 
+DEBUG: myID = 0, startPos = 0, endPos = 100000000 
+DEBUG: Global_Sum 2513274123.371828
+DATA, 1, 16, 1507.196000
+MEMORY, Virtual (KB), 66092, Physical (KB), 604 
+DEBUG: myID = 1, startPos = 100000000, endPos = 200000000 
+DEBUG: myID = 4, startPos = 400000000, endPos = 500000000 
+DEBUG: myID = 7, startPos = 700000000, endPos = 800000000 
+DEBUG: myID = 5, startPos = 500000000, endPos = 600000000 
+DEBUG: myID = 3, startPos = 300000000, endPos = 400000000 
+DEBUG: myID = 0, startPos = 0, endPos = 100000000 
+DEBUG: myID = 2, startPos = 200000000, endPos = 300000000 
+DEBUG: myID = 6, startPos = 600000000, endPos = 700000000 
+DEBUG: Global_Sum 2513274123.371828
+DATA, 1, 16, 1509.910000
+MEMORY, Virtual (KB), 106972, Physical (KB), 716 

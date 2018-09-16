@@ -1,0 +1,18 @@
+slurmstepd: error: task/cgroup: task[0] unable to set taskset '0x00000001'
+slurmstepd: error: task/cgroup: task[0] unable to set taskset '0x00000001'
+Hostname: elf41
+DATA, 1, 1, 5912.509000, MEMORY, Virtual (KB), 4344, Physical (KB), 348 
+DEBUG: myID = 1, startPos = 100000000, endPos = 200000000 
+DEBUG: myID = 0, startPos = 0, endPos = 100000000 
+DEBUG: myID = 2, startPos = 200000000, endPos = 300000000 
+DEBUG: myID = 3, startPos = 300000000, endPos = 400000000 
+DEBUG: Global_Sum 1256637061.935928
+DATA, 1, 1, 5926.680000
+MEMORY, Virtual (KB), 33308, Physical (KB), 604 
+DEBUG: myID = 1, startPos = 100000000, endPos = 200000000 
+DEBUG: myID = 2, startPos = 200000000, endPos = 300000000 
+DEBUG: myID = 3, startPos = 300000000, endPos = 400000000 
+DEBUG: myID = 0, startPos = 0, endPos = 100000000 
+DEBUG: Global_Sum 1256637061.935928
+DATA, 1, 1, 5448.005000
+MEMORY, Virtual (KB), 106972, Physical (KB), 532 
