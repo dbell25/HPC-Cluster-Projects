@@ -1,0 +1,53 @@
+Number of tasks= 12, My rank= 0
+Number of tasks= 12, My rank= 1
+Number of tasks= 12, My rank= 2
+Number of tasks= 12, My rank= 3
+Number of tasks= 12, My rank= 4
+Number of tasks= 12, My rank= 8
+Number of tasks= 12, My rank= 5
+Number of tasks= 12, My rank= 9
+Number of tasks= 12, My rank= 6
+Number of tasks= 12, My rank= 10
+Number of tasks= 12, My rank= 7
+Number of tasks= 12, My rank= 11
+Read in 50000 words
+Read in 1000 lines averaging 1628 chars/line
+
+Chunk Number: 3, Start: 12498, End: 16664
+
+Chunk Number: 1, Start: 4166, End: 8332
+
+Chunk Number: 2, Start: 8332, End: 12498
+
+Chunk Number: 0, Start: 0, End: 4166
+
+Chunk Number: 5, Start: 20830, End: 24996
+
+Chunk Number: 6, Start: 24996, End: 29162
+
+Chunk Number: 4, Start: 16664, End: 20830
+
+Chunk Number: 7, Start: 29162, End: 33328
+
+Chunk Number: 8, Start: 33328, End: 37494
+
+Chunk Number: 9, Start: 37494, End: 41660
+
+Chunk Number: 10, Start: 41660, End: 45826
+
+Chunk Number: 11, Start: 45826, End: 50000
+
+Rank 9 Runtime: 3.199430 seconds
+Rank 5 Runtime: 3.207637 seconds
+Rank 10 Runtime: 3.201468 seconds
+Rank 7 Runtime: 3.207969 seconds
+Rank 8 Runtime: 3.202362 seconds
+Rank 6 Runtime: 3.209362 seconds
+Rank 11 Runtime: 3.207064 seconds
+Rank 4 Runtime: 3.209283 seconds
+Rank 2 Runtime: 3.215340 seconds
+Rank 3 Runtime: 3.215011 seconds
+Rank 1 Runtime: 3.216107 seconds
+Rank 0 Runtime: 3.217989 seconds
+
+DATA: Total Runtime: 5.7229

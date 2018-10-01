@@ -1,0 +1,85 @@
+Number of tasks= 20, My rank= 5
+Number of tasks= 20, My rank= 6
+Number of tasks= 20, My rank= 7
+Number of tasks= 20, My rank= 4
+Number of tasks= 20, My rank= 0
+Read in 50000 words
+Number of tasks= 20, My rank= 1
+Number of tasks= 20, My rank= 2
+Number of tasks= 20, My rank= 3
+Number of tasks= 20, My rank= 8
+Number of tasks= 20, My rank= 12
+Number of tasks= 20, My rank= 9
+Number of tasks= 20, My rank= 13
+Number of tasks= 20, My rank= 10
+Number of tasks= 20, My rank= 15
+Number of tasks= 20, My rank= 11
+Number of tasks= 20, My rank= 14
+Number of tasks= 20, My rank= 16
+Number of tasks= 20, My rank= 17
+Number of tasks= 20, My rank= 18
+Number of tasks= 20, My rank= 19
+Read in 1000 lines averaging 1628 chars/line
+
+Chunk Number: 3, Start: 7500, End: 10000
+
+Chunk Number: 1, Start: 2500, End: 5000
+
+Chunk Number: 2, Start: 5000, End: 7500
+
+Chunk Number: 0, Start: 0, End: 2500
+
+Chunk Number: 7, Start: 17500, End: 20000
+
+Chunk Number: 5, Start: 12500, End: 15000
+
+Chunk Number: 6, Start: 15000, End: 17500
+
+Chunk Number: 4, Start: 10000, End: 12500
+
+Chunk Number: 8, Start: 20000, End: 22500
+
+Chunk Number: 9, Start: 22500, End: 25000
+
+Chunk Number: 10, Start: 25000, End: 27500
+
+Chunk Number: 11, Start: 27500, End: 30000
+
+Chunk Number: 16, Start: 40000, End: 42500
+
+Chunk Number: 17, Start: 42500, End: 45000
+
+Chunk Number: 18, Start: 45000, End: 47500
+
+Chunk Number: 19, Start: 47500, End: 50000
+
+Chunk Number: 12, Start: 30000, End: 32500
+
+Chunk Number: 15, Start: 37500, End: 40000
+
+Chunk Number: 13, Start: 32500, End: 35000
+
+Chunk Number: 14, Start: 35000, End: 37500
+
+Rank 1 Runtime: 1.869510 seconds
+Rank 2 Runtime: 1.870018 seconds
+Rank 3 Runtime: 1.870022 seconds
+Rank 0 Runtime: 1.870972 seconds
+Rank 5 Runtime: 1.865381 seconds
+Rank 7 Runtime: 1.866510 seconds
+Rank 6 Runtime: 1.867072 seconds
+Rank 4 Runtime: 1.867127 seconds
+Rank 11 Runtime: 1.900553 seconds
+Rank 9 Runtime: 1.901801 seconds
+Rank 8 Runtime: 1.902204 seconds
+Rank 10 Runtime: 1.902539 seconds
+Rank 15 Runtime: 1.862647 seconds
+Rank 14 Runtime: 1.863515 seconds
+Rank 19 Runtime: 1.862371 seconds
+Rank 12 Runtime: 1.866008 seconds
+Rank 18 Runtime: 1.862978 seconds
+Rank 13 Runtime: 1.866203 seconds
+Rank 17 Runtime: 1.863101 seconds
+Rank 16 Runtime: 1.864244 seconds
+
+DATA: Total Runtime: 6.3501
