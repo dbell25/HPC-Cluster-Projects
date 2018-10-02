@@ -1,0 +1,101 @@
+Number of tasks= 24, My rank= 8
+Number of tasks= 24, My rank= 9
+Number of tasks= 24, My rank= 10
+Number of tasks= 24, My rank= 11
+Number of tasks= 24, My rank= 12
+Number of tasks= 24, My rank= 13
+Number of tasks= 24, My rank= 14
+Number of tasks= 24, My rank= 15
+Number of tasks= 24, My rank= 16
+Number of tasks= 24, My rank= 17
+Number of tasks= 24, My rank= 18
+Number of tasks= 24, My rank= 19
+Number of tasks= 24, My rank= 20
+Number of tasks= 24, My rank= 21
+Number of tasks= 24, My rank= 22
+Number of tasks= 24, My rank= 23
+Number of tasks= 24, My rank= 0
+Number of tasks= 24, My rank= 1
+Number of tasks= 24, My rank= 2
+Number of tasks= 24, My rank= 3
+Number of tasks= 24, My rank= 4
+Number of tasks= 24, My rank= 5
+Number of tasks= 24, My rank= 6
+Number of tasks= 24, My rank= 7
+Read in 50000 words
+Read in 10000 lines averaging 1691 chars/line
+
+Chunk Number: 1, Start: 2083, End: 4166
+
+Chunk Number: 2, Start: 4166, End: 6249
+
+Chunk Number: 0, Start: 0, End: 2083
+
+Chunk Number: 7, Start: 14581, End: 16664
+
+Chunk Number: 3, Start: 6249, End: 8332
+
+Chunk Number: 4, Start: 8332, End: 10415
+
+Chunk Number: 5, Start: 10415, End: 12498
+
+Chunk Number: 6, Start: 12498, End: 14581
+
+Chunk Number: 16, Start: 33328, End: 35411
+
+Chunk Number: 17, Start: 35411, End: 37494
+
+Chunk Number: 18, Start: 37494, End: 39577
+
+Chunk Number: 19, Start: 39577, End: 41660
+
+Chunk Number: 20, Start: 41660, End: 43743
+
+Chunk Number: 21, Start: 43743, End: 45826
+
+Chunk Number: 22, Start: 45826, End: 47909
+
+Chunk Number: 23, Start: 47909, End: 50000
+
+Chunk Number: 8, Start: 16664, End: 18747
+
+Chunk Number: 9, Start: 18747, End: 20830
+
+Chunk Number: 10, Start: 20830, End: 22913
+
+Chunk Number: 11, Start: 22913, End: 24996
+
+Chunk Number: 12, Start: 24996, End: 27079
+
+Chunk Number: 13, Start: 27079, End: 29162
+
+Chunk Number: 14, Start: 29162, End: 31245
+
+Chunk Number: 15, Start: 31245, End: 33328
+
+Rank 22 Runtime: 16.613927 seconds
+Rank 14 Runtime: 16.626112 seconds
+Rank 21 Runtime: 16.617095 seconds
+Rank 18 Runtime: 16.617664 seconds
+Rank 17 Runtime: 16.626673 seconds
+Rank 5 Runtime: 16.630215 seconds
+Rank 6 Runtime: 16.630420 seconds
+Rank 13 Runtime: 16.629812 seconds
+Rank 9 Runtime: 16.631087 seconds
+Rank 11 Runtime: 16.631741 seconds
+Rank 19 Runtime: 16.631143 seconds
+Rank 15 Runtime: 16.632175 seconds
+Rank 10 Runtime: 16.633835 seconds
+Rank 8 Runtime: 16.634318 seconds
+Rank 12 Runtime: 16.634604 seconds
+Rank 20 Runtime: 16.635154 seconds
+Rank 7 Runtime: 16.638086 seconds
+Rank 4 Runtime: 16.643117 seconds
+Rank 3 Runtime: 16.648352 seconds
+Rank 2 Runtime: 16.654010 seconds
+Rank 0 Runtime: 16.655695 seconds
+Rank 16 Runtime: 16.649907 seconds
+Rank 23 Runtime: 16.708542 seconds
+Rank 1 Runtime: 16.776515 seconds
+
+DATA: Total Runtime: 20.1451
