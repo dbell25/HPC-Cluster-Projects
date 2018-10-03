@@ -1,0 +1,133 @@
+Number of tasks= 32, My rank= 0
+Read in 50000 words
+Number of tasks= 32, My rank= 1
+Number of tasks= 32, My rank= 2
+Number of tasks= 32, My rank= 3
+Number of tasks= 32, My rank= 4
+Number of tasks= 32, My rank= 5
+Number of tasks= 32, My rank= 6
+Number of tasks= 32, My rank= 7
+Number of tasks= 32, My rank= 8
+Number of tasks= 32, My rank= 9
+Number of tasks= 32, My rank= 10
+Number of tasks= 32, My rank= 11
+Number of tasks= 32, My rank= 12
+Number of tasks= 32, My rank= 13
+Number of tasks= 32, My rank= 14
+Number of tasks= 32, My rank= 15
+Number of tasks= 32, My rank= 17
+Number of tasks= 32, My rank= 18
+Number of tasks= 32, My rank= 19
+Number of tasks= 32, My rank= 22
+Number of tasks= 32, My rank= 23
+Number of tasks= 32, My rank= 24
+Number of tasks= 32, My rank= 25
+Number of tasks= 32, My rank= 26
+Number of tasks= 32, My rank= 28
+Number of tasks= 32, My rank= 29
+Number of tasks= 32, My rank= 30
+Number of tasks= 32, My rank= 31
+Number of tasks= 32, My rank= 16
+Number of tasks= 32, My rank= 21
+Number of tasks= 32, My rank= 27
+Number of tasks= 32, My rank= 20
+Read in 100000 lines averaging 1707 chars/line
+
+Chunk Number: 1, Start: 1562, End: 3124
+
+Chunk Number: 2, Start: 3124, End: 4686
+
+Chunk Number: 0, Start: 0, End: 1562
+
+Chunk Number: 3, Start: 4686, End: 6248
+
+Chunk Number: 4, Start: 6248, End: 7810
+
+Chunk Number: 5, Start: 7810, End: 9372
+
+Chunk Number: 6, Start: 9372, End: 10934
+
+Chunk Number: 7, Start: 10934, End: 12496
+
+Chunk Number: 8, Start: 12496, End: 14058
+
+Chunk Number: 15, Start: 23430, End: 24992
+
+Chunk Number: 9, Start: 14058, End: 15620
+
+Chunk Number: 10, Start: 15620, End: 17182
+
+Chunk Number: 11, Start: 17182, End: 18744
+
+Chunk Number: 12, Start: 18744, End: 20306
+
+Chunk Number: 13, Start: 20306, End: 21868
+
+Chunk Number: 14, Start: 21868, End: 23430
+
+Chunk Number: 31, Start: 48422, End: 50000
+
+Chunk Number: 17, Start: 26554, End: 28116
+
+Chunk Number: 18, Start: 28116, End: 29678
+
+Chunk Number: 27, Start: 42174, End: 43736
+
+Chunk Number: 16, Start: 24992, End: 26554
+
+Chunk Number: 19, Start: 29678, End: 31240
+
+Chunk Number: 22, Start: 34364, End: 35926
+
+Chunk Number: 23, Start: 35926, End: 37488
+
+Chunk Number: 24, Start: 37488, End: 39050
+
+Chunk Number: 25, Start: 39050, End: 40612
+
+Chunk Number: 21, Start: 32802, End: 34364
+
+Chunk Number: 26, Start: 40612, End: 42174
+
+Chunk Number: 28, Start: 43736, End: 45298
+
+Chunk Number: 29, Start: 45298, End: 46860
+
+Chunk Number: 30, Start: 46860, End: 48422
+
+Chunk Number: 20, Start: 31240, End: 32802
+
+Rank 29 Runtime: 125.874537 seconds
+Rank 24 Runtime: 125.922299 seconds
+Rank 27 Runtime: 125.980819 seconds
+Rank 28 Runtime: 125.983976 seconds
+Rank 30 Runtime: 126.066801 seconds
+Rank 23 Runtime: 126.070566 seconds
+Rank 19 Runtime: 126.083634 seconds
+Rank 14 Runtime: 126.143541 seconds
+Rank 25 Runtime: 126.140797 seconds
+Rank 26 Runtime: 126.147750 seconds
+Rank 11 Runtime: 126.153456 seconds
+Rank 22 Runtime: 126.166248 seconds
+Rank 13 Runtime: 126.178405 seconds
+Rank 21 Runtime: 126.178914 seconds
+Rank 10 Runtime: 126.190094 seconds
+Rank 18 Runtime: 126.205671 seconds
+Rank 7 Runtime: 126.214041 seconds
+Rank 2 Runtime: 126.225774 seconds
+Rank 8 Runtime: 126.230324 seconds
+Rank 15 Runtime: 126.237370 seconds
+Rank 16 Runtime: 126.239563 seconds
+Rank 17 Runtime: 126.249749 seconds
+Rank 5 Runtime: 126.261194 seconds
+Rank 4 Runtime: 126.269935 seconds
+Rank 9 Runtime: 126.270251 seconds
+Rank 3 Runtime: 126.284708 seconds
+Rank 20 Runtime: 126.305764 seconds
+Rank 12 Runtime: 126.326003 seconds
+Rank 1 Runtime: 126.370382 seconds
+Rank 6 Runtime: 126.385654 seconds
+Rank 0 Runtime: 126.413075 seconds
+Rank 31 Runtime: 127.216910 seconds
+
+DATA: Total Runtime: 150.3418

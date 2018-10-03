@@ -1,0 +1,25 @@
+Number of tasks= 5, My rank= 2
+Number of tasks= 5, My rank= 0
+Number of tasks= 5, My rank= 1
+Number of tasks= 5, My rank= 3
+Number of tasks= 5, My rank= 4
+Read in 50000 words
+Read in 100000 lines averaging 1707 chars/line
+
+Chunk Number: 2, Start: 20000, End: 30000
+
+Chunk Number: 1, Start: 10000, End: 20000
+
+Chunk Number: 0, Start: 0, End: 10000
+
+Chunk Number: 4, Start: 40000, End: 50000
+
+Chunk Number: 3, Start: 30000, End: 40000
+
+Rank 1 Runtime: 752.062809 seconds
+Rank 0 Runtime: 760.516971 seconds
+Rank 4 Runtime: 780.767802 seconds
+Rank 3 Runtime: 800.758017 seconds
+Rank 2 Runtime: 808.199692 seconds
+
+DATA: Total Runtime: 812.1584

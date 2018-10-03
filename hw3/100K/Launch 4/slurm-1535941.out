@@ -1,0 +1,101 @@
+Number of tasks= 24, My rank= 16
+Number of tasks= 24, My rank= 8
+Number of tasks= 24, My rank= 17
+Number of tasks= 24, My rank= 9
+Number of tasks= 24, My rank= 18
+Number of tasks= 24, My rank= 11
+Number of tasks= 24, My rank= 19
+Number of tasks= 24, My rank= 13
+Number of tasks= 24, My rank= 20
+Number of tasks= 24, My rank= 14
+Number of tasks= 24, My rank= 21
+Number of tasks= 24, My rank= 15
+Number of tasks= 24, My rank= 22
+Number of tasks= 24, My rank= 23
+Number of tasks= 24, My rank= 0
+Number of tasks= 24, My rank= 1
+Number of tasks= 24, My rank= 2
+Number of tasks= 24, My rank= 3
+Number of tasks= 24, My rank= 4
+Number of tasks= 24, My rank= 5
+Number of tasks= 24, My rank= 6
+Number of tasks= 24, My rank= 7
+Read in 50000 words
+Number of tasks= 24, My rank= 10
+Number of tasks= 24, My rank= 12
+Read in 100000 lines averaging 1707 chars/line
+
+Chunk Number: 1, Start: 2083, End: 4166
+
+Chunk Number: 2, Start: 4166, End: 6249
+
+Chunk Number: 3, Start: 6249, End: 8332
+
+Chunk Number: 0, Start: 0, End: 2083
+
+Chunk Number: 4, Start: 8332, End: 10415
+
+Chunk Number: 5, Start: 10415, End: 12498
+
+Chunk Number: 6, Start: 12498, End: 14581
+
+Chunk Number: 7, Start: 14581, End: 16664
+
+Chunk Number: 8, Start: 16664, End: 18747
+
+Chunk Number: 9, Start: 18747, End: 20830
+
+Chunk Number: 10, Start: 20830, End: 22913
+
+Chunk Number: 11, Start: 22913, End: 24996
+
+Chunk Number: 13, Start: 27079, End: 29162
+
+Chunk Number: 12, Start: 24996, End: 27079
+
+Chunk Number: 16, Start: 33328, End: 35411
+
+Chunk Number: 15, Start: 31245, End: 33328
+
+Chunk Number: 17, Start: 35411, End: 37494
+
+Chunk Number: 14, Start: 29162, End: 31245
+
+Chunk Number: 18, Start: 37494, End: 39577
+
+Chunk Number: 19, Start: 39577, End: 41660
+
+Chunk Number: 20, Start: 41660, End: 43743
+
+Chunk Number: 21, Start: 43743, End: 45826
+
+Chunk Number: 22, Start: 45826, End: 47909
+
+Chunk Number: 23, Start: 47909, End: 50000
+
+Rank 14 Runtime: 159.074752 seconds
+Rank 12 Runtime: 159.082301 seconds
+Rank 15 Runtime: 167.986313 seconds
+Rank 10 Runtime: 168.031723 seconds
+Rank 13 Runtime: 168.072831 seconds
+Rank 8 Runtime: 168.076411 seconds
+Rank 9 Runtime: 168.082819 seconds
+Rank 18 Runtime: 168.098046 seconds
+Rank 21 Runtime: 168.111602 seconds
+Rank 22 Runtime: 168.172188 seconds
+Rank 17 Runtime: 168.210333 seconds
+Rank 20 Runtime: 168.215956 seconds
+Rank 16 Runtime: 168.242856 seconds
+Rank 6 Runtime: 168.245639 seconds
+Rank 5 Runtime: 168.275117 seconds
+Rank 19 Runtime: 168.289479 seconds
+Rank 7 Runtime: 168.330697 seconds
+Rank 4 Runtime: 168.365563 seconds
+Rank 1 Runtime: 168.451078 seconds
+Rank 3 Runtime: 168.468480 seconds
+Rank 2 Runtime: 168.474400 seconds
+Rank 0 Runtime: 168.499176 seconds
+Rank 23 Runtime: 168.709774 seconds
+Rank 11 Runtime: 172.429310 seconds
+
+DATA: Total Runtime: 185.0071
