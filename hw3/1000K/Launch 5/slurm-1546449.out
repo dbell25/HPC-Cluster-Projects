@@ -1,0 +1,197 @@
+Number of tasks= 48, My rank= 32
+Number of tasks= 48, My rank= 33
+Number of tasks= 48, My rank= 34
+Number of tasks= 48, My rank= 35
+Number of tasks= 48, My rank= 36
+Number of tasks= 48, My rank= 37
+Number of tasks= 48, My rank= 38
+Number of tasks= 48, My rank= 39
+Number of tasks= 48, My rank= 40
+Number of tasks= 48, My rank= 41
+Number of tasks= 48, My rank= 42
+Number of tasks= 48, My rank= 43
+Number of tasks= 48, My rank= 44
+Number of tasks= 48, My rank= 45
+Number of tasks= 48, My rank= 46
+Number of tasks= 48, My rank= 47
+Number of tasks= 48, My rank= 0
+Number of tasks= 48, My rank= 1
+Number of tasks= 48, My rank= 2
+Number of tasks= 48, My rank= 3
+Number of tasks= 48, My rank= 4
+Number of tasks= 48, My rank= 5
+Number of tasks= 48, My rank= 6
+Number of tasks= 48, My rank= 8
+Number of tasks= 48, My rank= 9
+Number of tasks= 48, My rank= 11
+Number of tasks= 48, My rank= 12
+Number of tasks= 48, My rank= 13
+Number of tasks= 48, My rank= 14
+Number of tasks= 48, My rank= 15
+Number of tasks= 48, My rank= 16
+Number of tasks= 48, My rank= 17
+Number of tasks= 48, My rank= 18
+Number of tasks= 48, My rank= 19
+Number of tasks= 48, My rank= 20
+Number of tasks= 48, My rank= 21
+Number of tasks= 48, My rank= 22
+Number of tasks= 48, My rank= 23
+Number of tasks= 48, My rank= 24
+Number of tasks= 48, My rank= 25
+Number of tasks= 48, My rank= 26
+Number of tasks= 48, My rank= 27
+Number of tasks= 48, My rank= 28
+Number of tasks= 48, My rank= 29
+Number of tasks= 48, My rank= 30
+Number of tasks= 48, My rank= 31
+Number of tasks= 48, My rank= 10
+Number of tasks= 48, My rank= 7
+Read in 50000 words
+Read in 1000000 lines averaging 1708 chars/line
+
+Chunk Number: 1, Start: 1041, End: 2082
+
+Chunk Number: 2, Start: 2082, End: 3123
+
+Chunk Number: 0, Start: 0, End: 1041
+
+Chunk Number: 3, Start: 3123, End: 4164
+
+Chunk Number: 4, Start: 4164, End: 5205
+
+Chunk Number: 5, Start: 5205, End: 6246
+
+Chunk Number: 10, Start: 10410, End: 11451
+
+Chunk Number: 6, Start: 6246, End: 7287
+
+Chunk Number: 8, Start: 8328, End: 9369
+
+Chunk Number: 15, Start: 15615, End: 16656
+
+Chunk Number: 9, Start: 9369, End: 10410
+
+Chunk Number: 11, Start: 11451, End: 12492
+
+Chunk Number: 12, Start: 12492, End: 13533
+
+Chunk Number: 13, Start: 13533, End: 14574
+
+Chunk Number: 14, Start: 14574, End: 15615
+
+Chunk Number: 7, Start: 7287, End: 8328
+
+Chunk Number: 16, Start: 16656, End: 17697
+
+Chunk Number: 17, Start: 17697, End: 18738
+
+Chunk Number: 18, Start: 18738, End: 19779
+
+Chunk Number: 19, Start: 19779, End: 20820
+
+Chunk Number: 20, Start: 20820, End: 21861
+
+Chunk Number: 21, Start: 21861, End: 22902
+
+Chunk Number: 22, Start: 22902, End: 23943
+
+Chunk Number: 32, Start: 33312, End: 34353
+
+Chunk Number: 23, Start: 23943, End: 24984
+
+Chunk Number: 33, Start: 34353, End: 35394
+
+Chunk Number: 24, Start: 24984, End: 26025
+
+Chunk Number: 34, Start: 35394, End: 36435
+
+Chunk Number: 25, Start: 26025, End: 27066
+
+Chunk Number: 35, Start: 36435, End: 37476
+
+Chunk Number: 26, Start: 27066, End: 28107
+
+Chunk Number: 36, Start: 37476, End: 38517
+
+Chunk Number: 27, Start: 28107, End: 29148
+
+Chunk Number: 37, Start: 38517, End: 39558
+
+Chunk Number: 28, Start: 29148, End: 30189
+
+Chunk Number: 38, Start: 39558, End: 40599
+
+Chunk Number: 29, Start: 30189, End: 31230
+
+Chunk Number: 39, Start: 40599, End: 41640
+
+Chunk Number: 30, Start: 31230, End: 32271
+
+Chunk Number: 40, Start: 41640, End: 42681
+
+Chunk Number: 31, Start: 32271, End: 33312
+
+Chunk Number: 41, Start: 42681, End: 43722
+
+Chunk Number: 42, Start: 43722, End: 44763
+
+Chunk Number: 43, Start: 44763, End: 45804
+
+Chunk Number: 44, Start: 45804, End: 46845
+
+Chunk Number: 45, Start: 46845, End: 47886
+
+Chunk Number: 46, Start: 47886, End: 48927
+
+Chunk Number: 47, Start: 48927, End: 50000
+
+Rank 36 Runtime: 838.431424 seconds
+Rank 43 Runtime: 838.828143 seconds
+Rank 44 Runtime: 838.834033 seconds
+Rank 42 Runtime: 838.935390 seconds
+Rank 46 Runtime: 839.456330 seconds
+Rank 45 Runtime: 839.503303 seconds
+Rank 20 Runtime: 839.577509 seconds
+Rank 39 Runtime: 839.648839 seconds
+Rank 41 Runtime: 839.721030 seconds
+Rank 35 Runtime: 839.758518 seconds
+Rank 21 Runtime: 839.850810 seconds
+Rank 34 Runtime: 839.897674 seconds
+Rank 23 Runtime: 840.138989 seconds
+Rank 40 Runtime: 840.164611 seconds
+Rank 28 Runtime: 840.261932 seconds
+Rank 38 Runtime: 840.277929 seconds
+Rank 29 Runtime: 840.407022 seconds
+Rank 32 Runtime: 840.388470 seconds
+Rank 25 Runtime: 840.482948 seconds
+Rank 37 Runtime: 840.471103 seconds
+Rank 27 Runtime: 840.603141 seconds
+Rank 30 Runtime: 840.609285 seconds
+Rank 10 Runtime: 840.601670 seconds
+Rank 14 Runtime: 840.654582 seconds
+Rank 13 Runtime: 840.712676 seconds
+Rank 33 Runtime: 840.738458 seconds
+Rank 11 Runtime: 840.748635 seconds
+Rank 18 Runtime: 840.848569 seconds
+Rank 16 Runtime: 840.863061 seconds
+Rank 24 Runtime: 840.872034 seconds
+Rank 22 Runtime: 840.878850 seconds
+Rank 19 Runtime: 840.912048 seconds
+Rank 8 Runtime: 840.938562 seconds
+Rank 26 Runtime: 840.995859 seconds
+Rank 9 Runtime: 841.048742 seconds
+Rank 6 Runtime: 841.119701 seconds
+Rank 3 Runtime: 841.151404 seconds
+Rank 17 Runtime: 841.272992 seconds
+Rank 5 Runtime: 841.287535 seconds
+Rank 12 Runtime: 841.351434 seconds
+Rank 31 Runtime: 841.440176 seconds
+Rank 15 Runtime: 841.494714 seconds
+Rank 2 Runtime: 841.529689 seconds
+Rank 7 Runtime: 841.687150 seconds
+Rank 4 Runtime: 841.800780 seconds
+Rank 1 Runtime: 841.957593 seconds
+Rank 0 Runtime: 842.040300 seconds
+Rank 47 Runtime: 863.529304 seconds
+
+DATA: Total Runtime: 923.7594
