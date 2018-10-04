@@ -49,21 +49,4 @@ Chunk Number: 8, Start: 25000, End: 28125
 
 Chunk Number: 15, Start: 46875, End: 50000
 
-Rank 5 Runtime: 236.593153 seconds
-Rank 4 Runtime: 244.488485 seconds
-Rank 6 Runtime: 247.492093 seconds
-Rank 14 Runtime: 250.243335 seconds
-Rank 15 Runtime: 250.406194 seconds
-Rank 12 Runtime: 250.441739 seconds
-Rank 13 Runtime: 250.602243 seconds
-Rank 11 Runtime: 251.289422 seconds
-Rank 10 Runtime: 251.317722 seconds
-Rank 9 Runtime: 251.361690 seconds
-Rank 8 Runtime: 251.503703 seconds
-Rank 3 Runtime: 252.497278 seconds
-Rank 1 Runtime: 252.670493 seconds
-Rank 2 Runtime: 252.706464 seconds
-Rank 0 Runtime: 252.755134 seconds
-Rank 7 Runtime: 255.100812 seconds
-
 DATA: Total Runtime: 270.6928

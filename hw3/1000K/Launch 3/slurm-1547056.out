@@ -1,0 +1,37 @@
+Number of tasks= 8, My rank= 4
+Number of tasks= 8, My rank= 6
+Number of tasks= 8, My rank= 7
+Number of tasks= 8, My rank= 5
+Number of tasks= 8, My rank= 0
+Number of tasks= 8, My rank= 1
+Number of tasks= 8, My rank= 2
+Number of tasks= 8, My rank= 3
+Read in 50000 words
+Read in 1000000 lines averaging 1708 chars/line
+
+Chunk Number: 1, Start: 6250, End: 12500
+
+Chunk Number: 2, Start: 12500, End: 18750
+
+Chunk Number: 0, Start: 0, End: 6250
+
+Chunk Number: 3, Start: 18750, End: 25000
+
+Chunk Number: 7, Start: 43750, End: 50000
+
+Chunk Number: 4, Start: 25000, End: 31250
+
+Chunk Number: 6, Start: 37500, End: 43750
+
+Chunk Number: 5, Start: 31250, End: 37500
+
+Rank 0 Runtime: 5062.043909 seconds
+Rank 3 Runtime: 5062.604593 seconds
+Rank 2 Runtime: 5062.620787 seconds
+Rank 1 Runtime: 5063.443114 seconds
+Rank 6 Runtime: 5078.853861 seconds
+Rank 7 Runtime: 5088.529356 seconds
+Rank 4 Runtime: 5097.054317 seconds
+Rank 5 Runtime: 5140.148812 seconds
+
+DATA: Total Runtime: 5164.4674

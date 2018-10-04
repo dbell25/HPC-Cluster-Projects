@@ -1,0 +1,52 @@
+Number of tasks= 16, My rank= 0
+Number of tasks= 16, My rank= 1
+Number of tasks= 16, My rank= 2
+Number of tasks= 16, My rank= 3
+Number of tasks= 16, My rank= 6
+Number of tasks= 16, My rank= 7
+Number of tasks= 16, My rank= 9
+Number of tasks= 16, My rank= 10
+Number of tasks= 16, My rank= 11
+Number of tasks= 16, My rank= 8
+Number of tasks= 16, My rank= 4
+Number of tasks= 16, My rank= 5
+Read in 50000 words
+Number of tasks= 16, My rank= 12
+Number of tasks= 16, My rank= 13
+Number of tasks= 16, My rank= 14
+Number of tasks= 16, My rank= 15
+Read in 1000000 lines averaging 1707 chars/line
+
+Chunk Number: 1, Start: 3125, End: 6250
+
+Chunk Number: 0, Start: 0, End: 3125
+
+Chunk Number: 3, Start: 9375, End: 12500
+
+Chunk Number: 2, Start: 6250, End: 9375
+
+Chunk Number: 4, Start: 12500, End: 15625
+
+Chunk Number: 5, Start: 15625, End: 18750
+
+Chunk Number: 6, Start: 18750, End: 21875
+
+Chunk Number: 7, Start: 21875, End: 25000
+
+Chunk Number: 11, Start: 34375, End: 37500
+
+Chunk Number: 12, Start: 37500, End: 40625
+
+Chunk Number: 9, Start: 28125, End: 31250
+
+Chunk Number: 13, Start: 40625, End: 43750
+
+Chunk Number: 10, Start: 31250, End: 34375
+
+Chunk Number: 14, Start: 43750, End: 46875
+
+Chunk Number: 8, Start: 25000, End: 28125
+
+Chunk Number: 15, Start: 46875, End: 50000
+
+DATA: Total Runtime: 26231.6345
